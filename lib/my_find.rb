@@ -4,6 +4,6 @@ while i < collection.length
 yield(collection[i])
 return collection [i]
 end
-i = i + 1 
+    i = i + 1 
 end
 end
